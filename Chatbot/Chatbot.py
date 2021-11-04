@@ -314,5 +314,4 @@ while (indicator == True):
 Name:           Angelina Boudro
 Date:           November 1st, 2020
 Class:          Human Language Technologies
-Professor:      Karen Mazidi
 """
